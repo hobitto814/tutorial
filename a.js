@@ -1,2 +1,2 @@
-console.log('A');
-console.log('add branch feature-A')
+console.log('AB');
+console.log('add branch feature-B')
